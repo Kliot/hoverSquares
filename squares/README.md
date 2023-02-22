@@ -1,3 +1,13 @@
+### Work description:
+
+endpoint: https://demo7919674.mockable.io
+field - contain size of app field. Should be square form
+user set app mode
+press START
+if the user hovers on the square - it turns blue
+if the user hovers on the blue square - it turns white
+show hover squares
+
 ### `npm start`
 
 Runs the app in the development mode.\
