@@ -8,6 +8,8 @@ if the user hovers on the square - it turns blue
 if the user hovers on the blue square - it turns white
 show hover squares
 
+Link: https://hover-squares-vm98.vercel.app/
+
 ### `npm start`
 
 Runs the app in the development mode.\
